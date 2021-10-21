@@ -4,7 +4,7 @@
 #
 Name     : php-gnupg
 Version  : 1.5.0
-Release  : 9
+Release  : 10
 URL      : https://pecl.php.net/get/gnupg-1.5.0.tgz
 Source0  : https://pecl.php.net/get/gnupg-1.5.0.tgz
 Summary  : No detailed summary available
