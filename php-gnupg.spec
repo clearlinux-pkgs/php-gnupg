@@ -4,7 +4,7 @@
 #
 Name     : php-gnupg
 Version  : 1.5.0
-Release  : 12
+Release  : 13
 URL      : https://pecl.php.net/get/gnupg-1.5.0.tgz
 Source0  : https://pecl.php.net/get/gnupg-1.5.0.tgz
 Summary  : No detailed summary available
@@ -48,4 +48,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20200930/gnupg.so
+/usr/lib64/extensions/no-debug-non-zts-20210902/gnupg.so
